@@ -41,3 +41,34 @@ body {
 .navbar-inverse {
 	background-color: #512DA8;
 }
+
+.radio-inline {
+	padding-right: 25px;
+}
+
+.reservation-form {
+	padding: 25px 25px 0px 25px; 
+}
+
+.form-row {
+	padding-bottom: 20px; 
+}
+
+.reservations {
+	padding: 45px 0px 45px 0px;
+}
+
+#top-reserve-link a:hover {
+	text-decoration: none;
+}
+
+#top-reserve-button {
+	cursor: pointer;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
