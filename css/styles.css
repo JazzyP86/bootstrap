@@ -43,7 +43,7 @@ body {
 }
 
 .radio-inline {
-	padding-right: 25px;
+	padding-right: 30px;
 }
 
 .reservation-form {
@@ -52,6 +52,25 @@ body {
 
 .form-row {
 	padding-bottom: 20px; 
+}
+
+.form-horizontal .form-group {
+	margin-right: -15px;
+	margin-left: -15px;
+}
+
+.form-group {
+	margin-bottom: 15px;
+}
+
+.radio-inline input[type=radio] {
+	position: absolute;
+	margin-left: -20px;
+	margin-top: 4px; 
+}
+
+#numpeoplelist {
+	padding-top: 15px;
 }
 
 .reservations {
@@ -64,6 +83,10 @@ body {
 
 #top-reserve-button {
 	cursor: pointer;
+}
+
+#smokingsection {
+	margin-left: -20px;
 }
 
 .tab-content {
@@ -86,5 +109,27 @@ body {
 	top: 0; 
 	left: 0;
 	min-height: 300px;
-	
 }
+
+.datetimeinput {
+	margin-left: -20px;
+}
+
+.smoking {
+	padding-bottom: 15px;
+}
+
+.datetime {
+	padding-bottom: 15px;
+}
+
+.formbuttons {
+	padding-left: 100px;
+}
+
+#carouselButtons {
+	right: 0px; 
+	position: absolute;
+	bottom: 0px;
+}
+
